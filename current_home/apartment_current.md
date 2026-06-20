@@ -9,9 +9,9 @@ timestamp: 2026-06-19
 # Current Apartment
 
 ## Location
-- **Address:**
-- **Neighborhood:**
-- **City / State / ZIP:**
+- **Address:** 1301 16th St
+- **Neighborhood:** Showplace Square
+- **City / State / ZIP:** San Francisco, CA 94103
 
 ## Lease Details
 - **Monthly Rent:** $4,455
