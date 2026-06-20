@@ -14,7 +14,7 @@ timestamp: 2026-06-19
 - **City / State / ZIP:**
 
 ## Lease Details
-- **Monthly Rent:**
+- **Monthly Rent:** $4,455
 - **Lease Term:**
 - **Lease Expiration:**
 - **Deposit:**
@@ -24,18 +24,18 @@ timestamp: 2026-06-19
 - **Bathrooms:**
 - **Square Footage:**
 - **Floor / Level:**
-- **Parking:**
+- **Parking:** $300
 - **Storage:**
 - **Laundry:**
 
 ## Monthly Costs (All-In)
 | Category       | Amount |
 |----------------|--------|
-| Rent           |        |
+| Rent           | $4,455 |
 | Utilities      |        |
-| Parking        |        |
+| Parking        | $300   |
 | Insurance      |        |
-| **Total**      |        |
+| **Total**      | $4,755 |
 
 ## Pros
 -
